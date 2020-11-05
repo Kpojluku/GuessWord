@@ -1,0 +1,15 @@
+caption
+weather
+religion
+ring
+street
+smell
+noise
+flesh
+hose
+smile
+wing
+silk
+exchange
+jam
+cracker
